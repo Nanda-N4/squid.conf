@@ -1,3 +1,4 @@
+apt update -y
 apt install wget -y
 apt install squid -y
 wget https://raw.githubusercontent.com/Nanda-N4/squid.conf/main/squid.conf
